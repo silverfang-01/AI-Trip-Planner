@@ -3,7 +3,7 @@ import requests
 import datetime
 
 # from exception.exceptions import TradingBotException
-import sys
+# import sys
 
 BASE_URL = "http://localhost:8000"  # Backend endpoint
 
